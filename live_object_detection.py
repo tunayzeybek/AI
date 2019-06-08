@@ -4,13 +4,13 @@ Created on Sat Jun  8 12:33:00 2019
 
 @author: tunayzeybek
 """
-
+#live object detection
 import cv2
 import numpy as np
 
-#usb kamera 1 
-#pc kamera 0
-#video da videoadresi.tipi
+#usb cam 1 
+#pc cam 0
+#video videoadresi.tipi
 
 cam = cv2.VideoCapture(0)
 
