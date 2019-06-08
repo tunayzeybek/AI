@@ -2,7 +2,7 @@
 """
 Created on Sat Jun  8 12:33:00 2019
 
-@author: Asus
+@author: tunayzeybek
 """
 
 import cv2
